@@ -9,9 +9,9 @@ a {
 	text-decoration: none;
 }
 
-@media only screen and (max-width: 600px) {
-	#BodyContainer {
-		width: 80%;
+@media screen and (max-width: 600px) {
+	div#BodyContainer {
+		width: auto;
 		height: auto;
 		padding: 30px;
 		position: absolute;
@@ -24,7 +24,7 @@ a {
 		text-align: center;
 	}
 	
-	#LogoImg {
+	img#LogoImg {
 		width: 50%;
 		display: inline;
 	}
