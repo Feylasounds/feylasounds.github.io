@@ -26,8 +26,7 @@ a {
 	
 	#LogoImg {
 		width: 50%;
-		height: auto;
-		display: block;
+		display: inline;
 	}
 }
 
@@ -49,7 +48,6 @@ a {
 
 #LogoImg {
 	width: 50%;
-	height: auto;
 	margin: auto;
 	display: block;
 }
