@@ -10,6 +10,7 @@ a {
 }
 
 a:hover {
+	/*color: #C3E199;*/
 	animation-name: links;
 	transition-timing-function: ease-in-out;
 	animation-duration: 2s;
