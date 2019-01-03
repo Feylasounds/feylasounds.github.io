@@ -25,10 +25,11 @@ a {
 		text-align: center;
 	}
 	
-/*	#LogoImg {
-		width: 60vw;
+	#LogoImg {
+		width: 100px;
+		height: 100px;
 		margin: auto;
-	}*/
+	}
 }
 
 #BodyContainer {
