@@ -25,9 +25,8 @@ a {
 	}
 	
 	#LogoImg {
-		width: 200px;
+		width: 50%;
 		height: auto;
-		margin: auto;
 		display: block;
 	}
 }
@@ -50,6 +49,7 @@ a {
 
 #LogoImg {
 	width: 50%;
+	height: auto;
 	margin: auto;
 	display: block;
 }
