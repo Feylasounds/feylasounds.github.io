@@ -2,6 +2,7 @@
     width: 100px;
     height: 100px;
     background-color: red;
+	padding: 30px;
 
     position: absolute;
     top:0;
@@ -13,5 +14,5 @@
 }
 
 #BodyText {
-	padding: 30px;
+	
 }
