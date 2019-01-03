@@ -59,6 +59,15 @@ a {
 	padding-top: 0px;
 }
 
+div#AboutText {
+	border: solid;
+	border-right: none;
+	border-left: none;
+	border-color: #C3E199;
+	padding: 30px;
+	display: block;
+}
+
 #MailingList {
 	padding: 30px;
 	display: inline-block;
