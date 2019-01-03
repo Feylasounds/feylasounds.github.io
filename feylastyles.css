@@ -9,6 +9,10 @@ a {
 	text-decoration: none;
 }
 
+a:hover {
+	color: #C3E199;
+}
+
 @media screen and (max-width: 600px) {
 	div#BodyContainer {
 		width: auto;
