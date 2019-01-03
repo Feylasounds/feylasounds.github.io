@@ -12,6 +12,7 @@ a {
 @media only screen and (max-width: 600px) {
 	#BodyContainer {
 		width: 80%;
+		height: auto;
 		padding: 30px;
 		position: absolute;
 		top:0;
