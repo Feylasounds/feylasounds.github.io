@@ -1,6 +1,7 @@
 body {
 	font-family: sans-serif;
 	color: white;
+	background-color: #0E1116;
 }
 
 a {
@@ -8,17 +9,9 @@ a {
 }
 
 @media only screen and (max-width: 600px) {
-	body {
-		background-color: lightblue;
-	}
-  
-	#h1 {
-		color: black;
-	}
-	
 	#BodyContainer {
 		width: 70%;
-		height: 100%;
+		height: auto;
 		background-color: red;
 		padding: 30px;
 	
@@ -35,8 +28,8 @@ a {
 
 #BodyContainer {
     width: 40%;
-    height: 75%;
-    background-color: red;
+    height: auto;
+    background-color: #090C11;
 	padding: 30px;
 
     position: absolute;
@@ -51,6 +44,7 @@ a {
 
 #LogoImg {
 	size: auto;
+	top: 100px;
 }
 
 #h1 {
