@@ -7,6 +7,18 @@ a {
 	color: white;
 }
 
+@media only screen and (max-width: 600px) {
+	body {
+		background-color: lightblue;
+	}
+  
+	#Header {
+		font-family: sans-serif;
+		font-size: 24pt;
+		color: black;
+	}
+}
+
 #BodyContainer {
     width: 40%;
     height: 75%;
