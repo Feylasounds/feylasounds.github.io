@@ -12,27 +12,25 @@ a {
 		background-color: lightblue;
 	}
   
-	#Header {
-		font-family: sans-serif;
-		font-size: 24pt;
+	#h1 {
 		color: black;
 	}
 	
 	#BodyContainer {
-    width: 70%;
-    height: auto;
-    background-color: red;
-	padding: 30px;
-
-    position: absolute;
-    top:0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-
-    margin: auto;
-	text-align: center;
-}
+		width: 70%;
+		height: 100%;
+		background-color: red;
+		padding: 30px;
+	
+		position: absolute;
+		top:0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+	
+		margin: auto;
+		text-align: center;
+	}
 }
 
 #BodyContainer {
@@ -55,9 +53,9 @@ a {
 	size: auto;
 }
 
-#Header {
+#h1 {
 	font-family: sans-serif;
-	font-size: 48pt;
+	font-size: 10vw;
 }
 
 #MailingList {
