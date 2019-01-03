@@ -24,8 +24,8 @@ a {
 		text-align: center;
 	}
 	
-	#LogoImg {
-		width: 50%;
+	img#LogoImg {
+		width: 80%;
 		display: inline;
 	}
 }
@@ -69,6 +69,7 @@ div#AboutText {
 }
 
 #MailingList {
+
 	padding: 30px;
 	display: inline-block;
 }
