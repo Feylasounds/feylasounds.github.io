@@ -13,7 +13,6 @@ a {
 	#BodyContainer {
 		width: 70%;
 		height: auto;
-		background-color: red;
 		padding: 30px;
 	
 		position: absolute;
@@ -24,6 +23,11 @@ a {
 	
 		margin: auto;
 		text-align: center;
+	}
+	
+	#LogoImg {
+		width: 60%;
+		margin: auto;
 	}
 }
 
@@ -45,7 +49,7 @@ a {
 
 #LogoImg {
 	width: 50%;
-	top: auto;
+	margin: auto;
 }
 
 #h1 {
