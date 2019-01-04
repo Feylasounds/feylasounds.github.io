@@ -10,7 +10,6 @@ a {
 }
 
 a:hover {
-	/*color: #C3E199;*/
 	animation-name: links;
 	transition-timing-function: ease-in-out;
 	animation-duration: 2s;
@@ -20,7 +19,6 @@ a:hover {
 @keyframes links {
   0% {color: white;}
   100% {color: #C3E199;}
-  /*100% {color: #white;}*/
 }
 
 @media screen and (max-width: 600px) {
