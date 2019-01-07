@@ -21,28 +21,30 @@ a:hover {
   100% {color: #C3E199;}
 }
 
+/*Small screens*/
 @media screen and (max-width: 600px) {
-	div#BodyContainer {
-		width: auto;
-		height: auto;
-		padding: 30px;
-		position: absolute;
-		top:0;
-		bottom: 0;
-		left: 0;
-		right: 0;
-	
-		margin: auto;
-		text-align: center;
-	}
-	
-	img#LogoImg {
-		width: 80%;
-		display: inline;
-	}
-	
-	img#title {
-		width: 30%;
+		div#BodyContainer {
+			width: auto;
+			height: auto;
+			padding: 30px;
+			position: absolute;
+			top:0;
+			bottom: 0;
+			left: 0;
+			right: 0;
+		
+			margin: auto;
+			text-align: center;
+		}
+		
+		img#LogoImg {
+			width: 80%;
+			display: inline;
+		}
+		
+		img#title {
+			width: 30%;
+		}
 }
 
 #BodyContainer {
