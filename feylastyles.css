@@ -40,6 +40,9 @@ a:hover {
 		width: 80%;
 		display: inline;
 	}
+	
+	img#title {
+		width: 30vw;
 }
 
 #BodyContainer {
