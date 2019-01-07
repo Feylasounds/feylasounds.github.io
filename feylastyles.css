@@ -55,7 +55,7 @@ a:hover {
 
 #BodyContainer {
     width: 40%;
-    height: auto;
+    height: 100vw;
     background-color: #090C11;
 		padding-top: 30px;
 /*		margin: auto;*/
